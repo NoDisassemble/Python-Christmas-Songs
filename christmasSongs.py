@@ -1,5 +1,6 @@
 from jingleBells import jingleBells
 from rudolphReindeer import rudolphReindeer
+from jingleRock import jingleBellRock
 
 print('''
   .-._   .-._.                                                     .-.
@@ -10,7 +11,7 @@ print('''
   `--'                 /                     `-'   /      (_.--'             `--._/  /
 
 --------------------------------------------------------------------------------------------
-2016 v2.0
+2016 v2.1
 by
 NoDisassemble.me
 --------------------------------------------------------------------------------------------
@@ -24,11 +25,11 @@ while True:
         input("Press [Enter] to try again:")
         print("")
     # Options of Songs to choose from
-    options = {"A":["Jingle Bells",jingleBells], "B":["Rudolph The Red Nosed Reindeer",rudolphReindeer]}
+    options = {"A":["Jingle Bells",jingleBells], "B":["Rudolph The Red Nosed Reindeer",rudolphReindeer], "C":["Jingle Bell Rock",jingleBellRock],}
     for option in options:
         print(option+") "+options.get(option)[0])
     # User Input for Choice
-    choice = input("What song would you like to play? [A or B]: ")
+    choice = input("What song would you like to play? [A, B or C]: ")
     val = options.get(choice)
     if val is not None:
         action = val[1]
