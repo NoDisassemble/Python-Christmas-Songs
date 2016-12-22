@@ -11,6 +11,8 @@ print('''
   `--'                 /                     `-'   /      (_.--'             `--._/  /
 
 --------------------------------------------------------------------------------------------
+Python Christmas Music Juke Box.  Plays songs in karaoke style using winsound.Beep module.
+Keywords [Christmas Songs, Python Music Player, winsound.Beep]
 Dec 2016 v2.1
 by
 NoDisassemble.me
