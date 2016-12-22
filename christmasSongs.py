@@ -29,7 +29,7 @@ while True:
     for option in options:
         print(option+") "+options.get(option)[0])
     # User Input for Choice
-    choice = input("What song would you like to play? [A, B or C]: ")
+    choice = input("Which song would you like to play? [A, B or C]: ")
     val = options.get(choice)
     if val is not None:
         action = val[1]
