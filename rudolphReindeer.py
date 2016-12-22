@@ -2,7 +2,7 @@ import sys
 import time
 import winsound
 
-# print('''
+#
 #    .-.                  .       .               .-.                               .
 #   (_) )-.              /       /         /     (_) )-.           .-.             /
 #      /   \  )  (  .-../ .-._. /  .-.    /-.       /   \   .-.    `-'.  .-.  .-../   .-.   .-.  ).--.
@@ -11,10 +11,12 @@ import winsound
 # (_/     `-._)                  /             (_/     `-._)                `-
 #
 # ----------------------------------------------------------------------------------------------------
+# Rudolph The Red Nosed Reindeer.  Must be run from christmasSongs.py
+# Keywords [Rudolph The Red Nosed Reindeer, Python Christmas Songs]
 # Dec 2016 v1.0
 # by
 # NoDisassemble.me
-# ''')
+#
 
 # Begin Rudolph
 def rudolphReindeer():
