@@ -25,7 +25,7 @@ while True:
         input("Press [Enter] to try again:")
         print("")
     # Options of Songs to choose from
-    options = {"A":["Jingle Bells",jingleBells], "B":["Rudolph The Red Nosed Reindeer",rudolphReindeer], "C":["Jingle Bell Rock",jingleBellRock],}
+    options = {"A": ["Jingle Bells", jingleBells], "B": ["Rudolph The Red Nosed Reindeer", rudolphReindeer], "C": ["Jingle Bell Rock", jingleBellRock], }
     for option in options:
         print(option+") "+options.get(option)[0])
     # User Input for Choice
