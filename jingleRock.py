@@ -2,8 +2,6 @@ import sys
 import time
 import winsound
 
-# print('''
-#
 #
 #       .----.                     .         .-.                .    .    .-.
 #         / .-.                   /         (_) )-.            /    /    (_) )-.                 /
@@ -14,11 +12,13 @@ import winsound
 #
 #
 # -------------------------------------------------------------------------
+# Jingle Bell Rock.  Must be run from christmasSongs.py
+# Keywords [Jingle Bell Rock, Python Christmas Songs]
 # Dec 2016 v1.0
 # by
 # NoDisassemble.me
 # -------------------------------------------------------------------------
-# ''')
+#
 
 # Begin Jingle Bell Rock
 def jingleBellRock():
