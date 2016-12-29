@@ -3,6 +3,7 @@ from rudolphReindeer import rudolphReindeer
 from jingleRock import jingleBellRock
 
 print('''
+========================================================================================================
   .-._   .-._.                                                     .-.
 ..' (_)`-'   /         .-.       /                            .--.-'
 |          /-.   ).--.`-' . ---/---.  .-. .-.  .-.    .     (  (_).-._..  .-.    .-.    .
@@ -10,13 +11,13 @@ print('''
 `.    )_.'    |/  _.(__./ ._)/     '/   /   (  `-'-'/ ._)  _    ) `-'  '/   (    `-/-'/ ._)
   `--'                 /                     `-'   /      (_.--'             `--._/  /
 
---------------------------------------------------------------------------------------------
-Python Christmas Music Juke Box.  Plays songs in karaoke style using winsound.Beep module.
-Keywords [Python Christmas Songs, Python Music Player, winsound.Beep]
+--------------------------------------------------------------------------------------------------------
+Description: Python Christmas Music Juke Box.  Plays songs in karaoke style using winsound.Beep module.
+Keywords: [Python 3, Python Christmas Songs, Python Music Player, winsound.Beep]
 Dec 2016 v2.1
 by
 NoDisassemble.me
---------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 ''')
 
 while True:
