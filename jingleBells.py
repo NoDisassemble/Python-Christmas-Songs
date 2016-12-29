@@ -2,7 +2,7 @@ import sys
 import time
 import winsound
 
-#
+# ==========================================================================
 #       .----.                     .         .-.                .    .
 #         / .-.                   /         (_) )-.            /    /
 #        /  `-'.  .-.    .-.     /   .-.       / __)    .-.   /    /   .
@@ -10,14 +10,14 @@ import winsound
 # `.   /_.(__. '/   (    `-/-'_/_.-(__.'     /'      )(__.'_/_.-_/_.-/ ._)
 #   `-'              `--._/               (_/  `----'               /
 #
-# -------------------------------------------------------------------------
-# Jingle Bells.  Must be run from christmasSongs.py
-# Keywords [Jingle Bells, Python Christmas Songs]
+# --------------------------------------------------------------------------
+# Description: Jingle Bells.  Must be run from christmasSongs.py
+# Keywords: [Python 3, Jingle Bells, Python Christmas Songs]
 # Dec 2016 v1.0
 # by
 # NoDisassemble.me
-# -------------------------------------------------------------------------
-#
+# --------------------------------------------------------------------------
+
 
 # Begin Jingle Bells
 
